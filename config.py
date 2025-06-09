@@ -1,6 +1,6 @@
 custombucket = "zendrix-app-artifacts"
 customregion = "us-east-1"
-databasehost = "zendrix-db.cc5iqq6wo1ld.us-east-1.rds.amazonaws.com"
+databasehost = "zendrixdb.cc5iqq6wo1ld.us-east-1.rds.amazonaws.com"
 duser = "admin"
 dpass = "Abhi1995"
 s3database = "intellipaat"
